@@ -1,0 +1,6 @@
+C:\Users\lld\Documents\Visual Studio 2017\Projects\AVLtree\AVLtree\bin\Debug\AVLtree.exe.config
+C:\Users\lld\Documents\Visual Studio 2017\Projects\AVLtree\AVLtree\bin\Debug\AVLtree.exe
+C:\Users\lld\Documents\Visual Studio 2017\Projects\AVLtree\AVLtree\bin\Debug\AVLtree.pdb
+C:\Users\lld\Documents\Visual Studio 2017\Projects\AVLtree\AVLtree\obj\Debug\AVLtree.csprojResolveAssemblyReference.cache
+C:\Users\lld\Documents\Visual Studio 2017\Projects\AVLtree\AVLtree\obj\Debug\AVLtree.exe
+C:\Users\lld\Documents\Visual Studio 2017\Projects\AVLtree\AVLtree\obj\Debug\AVLtree.pdb
